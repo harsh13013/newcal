@@ -16,10 +16,7 @@ body {
     overflow: hidden;
     
 }
-img{
-   width: 15%;
-  
-}
+
 .container table{
     border: 0.1em solid darkcyan;
     width: 102%;
@@ -45,7 +42,7 @@ h1 {
     -webkit-text-fill-color: transparent;
     text-align: center;
     color: darkcyan;
-    margin-top: -20px;
+    margin-top: 25px;
     
 }
 h2{
@@ -77,6 +74,9 @@ h6{
     bottom: 50px;
     font-size: 20px;
     text-decoration: underline;
+}
+.icis-logo{
+    margin-top: 40px;
 }
 label,
 input {
