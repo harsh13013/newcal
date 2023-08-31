@@ -18,8 +18,7 @@ body {
 }
 img{
    width: 15%;
-   mix-blend-mode: screen;
-   background-color: transparent;
+  
 }
 .container table{
     border: 0.1em solid darkcyan;
